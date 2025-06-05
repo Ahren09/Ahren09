@@ -8,7 +8,7 @@
 <div>&nbsp;</div>
 
 - 🎓 I’m a CS Ph.D. Candidate at [**Georgia Tech**](https://gatech.edu/) [School of CSE](https://cse.gatech.edu/)
-- 🤔 I am / was an intern at IBM, Amazon, Microsoft, Adobe, and JP Morgan. Putting the initial letters together, you get "I AM AJ" (Ahren Jin) 🤗
+- 🤔 I am / was an intern at IBM, Amazon, Microsoft Research, Adobe Research, and JP Morgan AI Research. Putting the initial letters together, you get "I AM AJ" (Ahren Jin) 🤗
 - 🤞 I'm looking for _**collaboration**_. Feel free to contact me
 - 📫 How to reach me
   - _**My Website**_ https://ahren09.github.io/
