@@ -26,7 +26,7 @@ I build research systems that connect **strong publications** with **practical M
 
 ## Selected Work
 
-- [https://github.com/Ahren09/UniSD] - A unified framework for studying self-distillation for LLMs.
+- [UniSD](https://github.com/Ahren09/UniSD) - A unified framework for studying self-distillation for LLMs.
 - [AgentReview](https://github.com/Ahren09/AgentReview) — LLM-agent framework for studying peer-review dynamics; EMNLP 2024 main-track oral.
 - [AgentArk](https://github.com/AIFrontierLab/AgentArk) — distilling multi-agent intelligence into a single LLM agent.
 - [XLingEval](https://github.com/claws-lab/XLingEval) — cross-lingual evaluation of LLMs for healthcare queries. The Web Conference 2024 Oral.
