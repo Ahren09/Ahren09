@@ -7,13 +7,13 @@
 
 <div>&nbsp;</div>
 
-- **CS Ph.D. Candidate in Computer Science at Georgia Tech**  
+- **Actively seeking:** **full-time Research Scientist / Research Engineer / Applied Scientist / Member of Technical Staff roles**
+- **Ph.D. Candidate in Computer Science at Georgia Tech**, **Graduating:** May 2027  
 - **Research areas:** Large Language Models, Multimodal LLMs, LLM Agents, RAG, Computational Social Science  
 - **Research Scientist Intern**: Microsoft Research Asia (2020-2022), Adobe Research (2024), JP Morgan AI Research (2025), and Waymo (2026)
 - **SWE Intern**: IBM, Amazon.
 - Putting the initial letters together, you get "I AM AJW" (Ahren Jin, Wow~) 🤗
-- **Graduating:** May 2027
-- **Actively seeking:** **full-time Research Scientist / Applied Scientist roles**
+
 
 I build research systems that connect **strong publications** with **practical ML deployment**. My recent work spans **multi-page visual document understanding, multimodal GUI understanding, retrieval-augmented generation with context compression, peer-review simulation with LLM agents, and cross-lingual LLM evaluation**.
 
@@ -26,12 +26,13 @@ I build research systems that connect **strong publications** with **practical M
 
 ## Selected Work
 
+- [https://github.com/Ahren09/UniSD] - A unified framework for studying self-distillation for LLMs.
 - [AgentReview](https://github.com/Ahren09/AgentReview) — LLM-agent framework for studying peer-review dynamics; EMNLP 2024 main-track oral.
 - [AgentArk](https://github.com/AIFrontierLab/AgentArk) — distilling multi-agent intelligence into a single LLM agent.
-- [XLingEval](https://github.com/claws-lab/XLingEval) — cross-lingual evaluation of LLMs for healthcare queries.
-- [INPAC](https://github.com/claws-lab/INPAC) — modeling information pathways across online communities; KDD 2023.
-- [FinerFact](https://github.com/Ahren09/FinerFact) — fine-grained reasoning for fake-news detection; AAAI 2022.
-- [SciEvo](https://github.com/Ahren09/SciEvo) — longitudinal dataset for academic literature, metadata, and citation graphs.
+- [XLingEval](https://github.com/claws-lab/XLingEval) — cross-lingual evaluation of LLMs for healthcare queries. The Web Conference 2024 Oral.
+- [INPAC](https://github.com/claws-lab/INPAC) — modeling information pathways across online communities. KDD 2023 Oral.
+- [FinerFact](https://github.com/Ahren09/FinerFact) — fine-grained reasoning for fake-news detection; AAAI 2022 Oral.
+- [SciEvo](https://github.com/Ahren09/SciEvo) — longitudinal dataset for academic literature, metadata, and citation graphs. Best Paper Award, AAAI 2025 GoodData Workshop.
 
 ## Looking For
 
