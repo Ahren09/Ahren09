@@ -27,12 +27,13 @@ I build research systems that connect **strong publications** with **practical M
 ## Selected Work
 
 - [UniSD](https://github.com/Ahren09/UniSD) - A unified framework for studying self-distillation for LLMs.
-- [AgentReview](https://github.com/Ahren09/AgentReview) — LLM-agent framework for studying peer-review dynamics; EMNLP 2024 main-track oral.
+- [AgentReview](https://github.com/Ahren09/AgentReview) — LLM-agent framework for studying peer-review dynamics; **EMNLP 2024 main-track oral**.
 - [AgentArk](https://github.com/AIFrontierLab/AgentArk) — distilling multi-agent intelligence into a single LLM agent.
-- [XLingEval](https://github.com/claws-lab/XLingEval) — cross-lingual evaluation of LLMs for healthcare queries. The Web Conference 2024 Oral.
-- [INPAC](https://github.com/claws-lab/INPAC) — modeling information pathways across online communities. KDD 2023 Oral.
-- [FinerFact](https://github.com/Ahren09/FinerFact) — fine-grained reasoning for fake-news detection; AAAI 2022 Oral.
-- [SciEvo](https://github.com/Ahren09/SciEvo) — longitudinal dataset for academic literature, metadata, and citation graphs. Best Paper Award, AAAI 2025 GoodData Workshop.
+- [SARA](https://github.com/Ahren09/SARA) - Efficient Retrieval-Augmented Generation with Context Compression; **ACL 2026 main-track oral**.
+- [XLingEval](https://github.com/claws-lab/XLingEval) — cross-lingual evaluation of LLMs for healthcare queries. **The Web Conference 2024 Oral**.
+- [INPAC](https://github.com/claws-lab/INPAC) — modeling information pathways across online communities. **KDD 2023 Oral**.
+- [FinerFact](https://github.com/Ahren09/FinerFact) — fine-grained reasoning for fake-news detection; **AAAI 2022 Oral**.
+- [SciEvo](https://github.com/Ahren09/SciEvo) — longitudinal dataset for academic literature, metadata, and citation graphs. **Best Paper Award, AAAI 2025 GoodData Workshop**.
 
 ## Looking For
 
@@ -55,7 +56,5 @@ I am especially interested in **Research Scientist** and **Applied Scientist** r
 If you are hiring for **2027 full-time Research Scientist / Applied Scientist roles**, or want to discuss collaboration in **LLMs, multimodal learning, or agent systems**, I’d love to connect.
 
 <!-- <div align="left"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SYuan03" /> </div> -->
-<div align="left"> 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Ahren09&show_icons=true&line_height=22&theme=tokyonight" /> 
-</div>
+
 
