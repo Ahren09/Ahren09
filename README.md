@@ -19,7 +19,7 @@ I build research systems that connect **strong publications** with **practical M
 
 ## Highlights
 
-- First-authored papers at **ACL, EMNLP, The Web Conference, KDD, and AAAI**, including an **EMNLP 2024 main-conference oral**.
+- First-authored or co-authored papers at top-tier conferences, such as **ICLR, ICML, ACL, EMNLP, The Web Conference, KDD, CIKM, ICWSM, and AAAI**, with multiple **Oral** presentations 
 - Research scientist internships / collaborations at **J.P. Morgan AI Research, Visa Research, Adobe Research, and Microsoft Research Asia**; prior engineering internships at **Amazon** and **IBM**.
 - Built open research artifacts in **LLM agents, evaluation, misinformation detection, scientometrics, and dynamic graph mining**.
 - Recipient of **Best Paper Award** at the **AAAI 2025 Good-Data Workshop**.
