@@ -10,7 +10,7 @@
 - **Actively seeking:** **full-time Research Scientist / Research Engineer / Applied Scientist / Member of Technical Staff roles**
 - **Ph.D. Candidate in Computer Science at Georgia Tech**, **Graduating:** May 2027  
 - **Research areas:** Large Language Models, Multimodal LLMs, LLM Agents, RAG, Computational Social Science  
-- **Research Scientist Intern**: Microsoft Research Asia (2020-2022), Adobe Research (2024), J.P. Morgan AI Research (2025), and Waymo (2026)
+- **Research Scientist Intern**: Microsoft Research Asia (2020-2022), Adobe Research (2024), J.P. Morgan AI Research (2025), Waymo (2026), and Amazon (2026)
 - **SWE Intern**: IBM, Amazon.
 - Putting the initial letters of my interned companies (**I**BM, **A**mazon, **M**icrosoft, **A**dobe, **J**.P. Morgan, **W**aymo) together, you get **"I AM AJW"** (I am Ahren Jin, Wow~) 🤗
 
